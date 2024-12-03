@@ -1,6 +1,6 @@
 # Ecommerce-Website-Analysis
 
-- This project involves analyzing a dataset of products across various brands and categories to uncover trends in pricing, discounts, customer ratings, and sales performance. The analysis highlights factors influencing product rankings, brand performance, and customer preferences.
+This project involves analyzing a dataset of products across various brands and categories to uncover trends in pricing, discounts, customer ratings, and sales performance. The analysis highlights factors influencing product rankings, brand performance, and customer preferences.
 
 ## Key Features
 **Pricing Analysis:** Examined product price and sale price distributions to identify affordability trends.
